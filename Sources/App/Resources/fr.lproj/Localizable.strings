@@ -329,6 +329,10 @@ Les balises fonctionneront sur tout appareil sur lequel Home Assistant est insta
 "settings_details.notifications.categories.footer" = "Les notifications exploitables sont créées à l'aide de catégories qui définissent les actions disponibles pour les notifications.";
 "settings_details.notifications.categories.header" = "Catégories";
 "settings_details.notifications.info" = "Utilisez le service de notification mobile_app pour envoyer des notifications à votre appareil.";
+"settings_details.notifications.local_push.status.available" = "Available (%1$@)";
+"settings_details.notifications.local_push.status.establishing" = "Establishing";
+"settings_details.notifications.local_push.status.unavailable" = "Unavailable";
+"settings_details.notifications.local_push.title" = "Local Push";
 "settings_details.notifications.new_category.title" = "Nouvelle catégorie";
 "settings_details.notifications.permission.disabled" = "Refusé";
 "settings_details.notifications.permission.enabled" = "Activé";

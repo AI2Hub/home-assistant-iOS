@@ -329,6 +329,10 @@ Dine handlinger og din lokale konfiguration vil stadig være tilgængelige, efte
 "settings_details.notifications.categories.footer" = "Actionable notifications are created using categories which define the available actions for the notifications.";
 "settings_details.notifications.categories.header" = "Kategorier";
 "settings_details.notifications.info" = "Brug notify tjenesten til at sende notifikationer til din enhed.";
+"settings_details.notifications.local_push.status.available" = "Available (%1$@)";
+"settings_details.notifications.local_push.status.establishing" = "Establishing";
+"settings_details.notifications.local_push.status.unavailable" = "Unavailable";
+"settings_details.notifications.local_push.title" = "Local Push";
 "settings_details.notifications.new_category.title" = "Ny kategori";
 "settings_details.notifications.permission.disabled" = "Nægtet";
 "settings_details.notifications.permission.enabled" = "Aktiveret";

@@ -329,6 +329,10 @@ Handlingene og den lokale konfigurasjonen vil fortsatt være tilgjengelige etter
 "settings_details.notifications.categories.footer" = "Handlingsvarsler opprettes ved hjelp av kategorier som definerer tilgjengelige handlinger for varslingene.";
 "settings_details.notifications.categories.header" = "Kategorier";
 "settings_details.notifications.info" = "Bruk varslingstjenesten mobile_app til å sende varsler til enheten din.";
+"settings_details.notifications.local_push.status.available" = "Available (%1$@)";
+"settings_details.notifications.local_push.status.establishing" = "Establishing";
+"settings_details.notifications.local_push.status.unavailable" = "Unavailable";
+"settings_details.notifications.local_push.title" = "Local Push";
 "settings_details.notifications.new_category.title" = "Ny kategori";
 "settings_details.notifications.permission.disabled" = "Nektet";
 "settings_details.notifications.permission.enabled" = "Aktivert";

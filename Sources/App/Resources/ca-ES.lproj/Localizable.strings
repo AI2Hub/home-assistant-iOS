@@ -329,6 +329,10 @@ Les vostres accions i la configuració local encara estaran disponibles després
 "settings_details.notifications.categories.footer" = "Actionable notifications are created using categories which define the available actions for the notifications.";
 "settings_details.notifications.categories.header" = "Categories";
 "settings_details.notifications.info" = "Utilitzeu el servei de notificacions \"mobile_app\" per enviar notificacions al vostre dispositiu.";
+"settings_details.notifications.local_push.status.available" = "Available (%1$@)";
+"settings_details.notifications.local_push.status.establishing" = "Establishing";
+"settings_details.notifications.local_push.status.unavailable" = "Unavailable";
+"settings_details.notifications.local_push.title" = "Local Push";
 "settings_details.notifications.new_category.title" = "Nova categoria";
 "settings_details.notifications.permission.disabled" = "Denegat";
 "settings_details.notifications.permission.enabled" = "Habilitat";
